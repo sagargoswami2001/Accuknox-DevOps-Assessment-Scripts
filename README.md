@@ -1,2 +1,2 @@
-# Accuknox-DevOps-Assessment-Scripts
-Accuknox DevOps Second Problem Statement
+# Accuknox DevOps Assessment Scripts
+- Accuknox DevOps Second Problem Statement
