@@ -1,0 +1,9 @@
+2024-08-12 12:51:01,020 - INFO - Starting log file analysis.
+2024-08-12 12:51:01,021 - INFO - Log file analysis report
+2024-08-12 12:51:01,021 - INFO - Total 404 errors: 0
+2024-08-12 12:51:01,021 - INFO - Most requested pages:
+2024-08-12 12:51:01,021 - INFO - /: 3 requests
+2024-08-12 12:51:01,021 - INFO - /favicon.ico: 1 requests
+2024-08-12 12:51:01,021 - INFO - IP addresses with the most requests:
+2024-08-12 12:51:01,021 - INFO - 127.0.0.1: 4 requests
+2024-08-12 12:51:01,021 - INFO - Log file analysis completed.

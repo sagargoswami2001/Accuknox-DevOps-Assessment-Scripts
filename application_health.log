@@ -1,0 +1,3 @@
+2024-08-12 12:55:49,327 - INFO - Starting application health check.
+2024-08-12 12:55:50,017 - INFO - Application is up. Status code: 200
+2024-08-12 12:55:50,018 - INFO - Application health check completed. Status: up
